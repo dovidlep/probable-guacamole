@@ -1,27 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>YUTORAH:  R' Yehuda Turetsky</title>
-    <link></link>
+    <title>YUTORAH: R' Yehuda Turetsky - Great Seforim</title>
+    <link>https://www.yutorah.org</link>
     <language>en-us</language>
+    <description>YUTORAH: R' Yehuda Turetsky - Great Seforim series</description>
     <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
-    <itunes:summary>YUTORAH:  R' Yehuda Turetsky</itunes:summary>
-    <description>YUTORAH:  R' Yehuda Turetsky</description>
+    <itunes:summary>YUTORAH: R' Yehuda Turetsky - Great Seforim series</itunes:summary>
+    <itunes:image href="https://cdnyutorah.cachefly.net/_images/album_art/_default.jpg" />
+    <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>YUTORAH.org</itunes:name>
       <itunes:email>office@yutorah.org</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://cdnyutorah.cachefly.net/_images/album_art/_default.jpg" />
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Religion &amp;amp; Spirituality">
-      <itunes:category text="Judaism" />
-    </itunes:category>
+    <item>
+      <title>Great Seforim to Know About: Five Important/Helpful Haggadahs for Pesach</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1168604</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Five Important/Helpful Haggadahs for Pesach</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2026/5754/1168604/great-seforim-to-know-about-five-importanthelpful-haggadahs-for-pesach.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1168604</guid>
+      <pubDate>Tue, 10 Mar 2026 04:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Rav Dov Zinger on Tefillah</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1166838</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Rav Dov Zinger on Tefillah</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2026/5754/1166838/great-seforim-to-know-about-rav-dov-zinger-on-tefillah.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1166838</guid>
+      <pubDate>Tue, 24 Feb 2026 03:19:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: שלטי הגיבורים - An Important Sefer on the Mikdash and its Keilim</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1165983</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: שלטי הגיבורים - An Important Sefer on the Mikdash and its Keilim</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2026/5754/1165983/great-seforim-to-know-about-שלטי-הגיבורים-an-important-sefer-on-the-mikdash-and-its-keilim.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1165983</guid>
+      <pubDate>Tue, 17 Feb 2026 03:11:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Malbim on Chumash</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1164947</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Malbim on Chumash</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2026/5754/1164947/great-seforim-to-know-about-malbim-on-chumash.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1164947</guid>
+      <pubDate>Tue, 10 Feb 2026 03:10:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Rav Zevin’s Sippurei Chassidim</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1161034</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Rav Zevin’s Sippurei Chassidim</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2026/5754/1161034/great-seforim-to-know-about-rav-zevin’s-sippurei-chassidim.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1161034</guid>
+      <pubDate>Thu, 08 Jan 2026 00:52:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: The Teshuvos of Rav Aryeh Tzvi Frommer - שו"ת ארץ צבי</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1159070</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: The Teshuvos of Rav Aryeh Tzvi Frommer - שו"ת ארץ צבי</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1159070/great-seforim-to-know-about-the-teshuvos-of-rav-aryeh-tzvi-frommer-שות-ארץ-צבי.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1159070</guid>
+      <pubDate>Tue, 23 Dec 2025 04:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: The Lubavitcher Rebbe on the Minchas Chinuch</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1156551</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: The Lubavitcher Rebbe on the Minchas Chinuch</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1156551/great-seforim-to-know-about-the-lubavitcher-rebbe-on-the-minchas-chinuch.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1156551</guid>
+      <pubDate>Tue, 02 Dec 2025 03:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: The Teshuvos of Rav Yaakov Ariel</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1155748</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: The Teshuvos of Rav Yaakov Ariel</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1155748/great-seforim-to-know-about-the-teshuvos-of-rav-yaakov-ariel.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1155748</guid>
+      <pubDate>Tue, 25 Nov 2025 03:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Shita Mekubetzes</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1154650</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Shita Mekubetzes</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1154650/great-seforim-to-know-about-shita-mekubetzes.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1154650</guid>
+      <pubDate>Tue, 18 Nov 2025 03:16:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Levush Mordechai and An Approach to Derech HaLimud (Iyun and Bekiyus)</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1153693</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Levush Mordechai and An Approach to Derech HaLimud (Iyun and Bekiyus)</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1153693/great-seforim-to-know-about-levush-mordechai-and-an-approach-to-derech-halimud-iyun-and-bekiyus.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1153693</guid>
+      <pubDate>Tue, 11 Nov 2025 03:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Yam Shel Shlomo</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1152805</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Yam Shel Shlomo</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1152805/great-seforim-to-know-about-yam-shel-shlomo.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1152805</guid>
+      <pubDate>Tue, 04 Nov 2025 03:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: The Raavad on Bava Kammah</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1151694</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: The Raavad on Bava Kammah</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1151694/great-seforim-to-know-about-the-raavad-on-bava-kammah.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1151694</guid>
+      <pubDate>Tue, 28 Oct 2025 05:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Ramban's Derasha on Rosh HaShana</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1148192</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Ramban's Derasha on Rosh HaShana</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1148192/great-seforim-to-know-about-ramban's-derasha-on-rosh-hashana.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1148192</guid>
+      <pubDate>Tue, 16 Sep 2025 03:25:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Keren Orah on Kodshim</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1147235</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Keren Orah on Kodshim</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1147235/great-seforim-to-know-about-keren-orah-on-kodshim.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1147235</guid>
+      <pubDate>Tue, 09 Sep 2025 05:05:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: שמות בארץ on Rosh HaShana, Yoma, and Sukkah</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1146297</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: שמות בארץ on Rosh HaShana, Yoma, and Sukkah</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1146297/great-seforim-to-know-about-שמות-בארץ-on-rosh-hashana-yoma-and-sukkah.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1146297</guid>
+      <pubDate>Tue, 02 Sep 2025 03:39:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Power of New Torah: A Quick Look at 10 of the Important Seforim Published in the Last Year (שבועות תשפ"ה)</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1135900</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>The Power of New Torah: A Quick Look at 10 of the Important Seforim Published in the Last Year (שבועות תשפ"ה)</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1135900/the-power-of-new-torah-a-quick-look-at-10-of-the-important-seforim-published-in-the-last-year-שבועות-תשפה.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1135900</guid>
+      <pubDate>Tue, 20 May 2025 03:18:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Manos Halevi on Megillas Esther</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1128694</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Manos Halevi on Megillas Esther</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1128694/great-seforim-to-know-about-manos-halevi-on-megillas-esther.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1128694</guid>
+      <pubDate>Tue, 11 Mar 2025 08:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: The Kuzari</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1125967</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: The Kuzari</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1125967/great-seforim-to-know-about-the-kuzari.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1125967</guid>
+      <pubDate>Tue, 18 Feb 2025 03:08:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Noam Elimelech</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1122683</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Noam Elimelech</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1122683/great-seforim-to-know-about-noam-elimelech.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1122683</guid>
+      <pubDate>Tue, 21 Jan 2025 07:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Tiferes Yisrael on Mishna - A Controversial Work?</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1121939</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Tiferes Yisrael on Mishna - A Controversial Work?</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1121939/great-seforim-to-know-about-tiferes-yisrael-on-mishna-a-controversial-work.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1121939</guid>
+      <pubDate>Tue, 14 Jan 2025 04:55:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Aruch LaNer and Contradictions in Rashi</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1121738</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Aruch LaNer and Contradictions in Rashi</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2025/5754/1121738/great-seforim-to-know-about-aruch-laner-and-contradictions-in-rashi.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1121738</guid>
+      <pubDate>Sun, 12 Jan 2025 08:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: The Ketzos HaChoshen</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1120168</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: The Ketzos HaChoshen</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2024/5754/1120168/great-seforim-to-know-about-the-ketzos-hachoshen.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1120168</guid>
+      <pubDate>Thu, 26 Dec 2024 06:35:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: The Bartenurah on Mishna</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1119467</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: The Bartenurah on Mishna</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2024/5754/1119467/great-seforim-to-know-about-the-bartenurah-on-mishna.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1119467</guid>
+      <pubDate>Thu, 19 Dec 2024 02:51:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: The Rash MiShantz on Mishna</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1118285</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: The Rash MiShantz on Mishna</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2024/5754/1118285/great-seforim-to-know-about-the-rash-mishantz-on-mishna.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1118285</guid>
+      <pubDate>Tue, 10 Dec 2024 08:51:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Rav Dovid Yosef's Halacha Berurah</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1117610</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Rav Dovid Yosef's Halacha Berurah</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2024/5754/1117610/great-seforim-to-know-about-rav-dovid-yosef's-halacha-berurah.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1117610</guid>
+      <pubDate>Wed, 04 Dec 2024 10:13:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: עולת שלמה on Kodshim</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1116705</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: עולת שלמה on Kodshim</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2024/5754/1116705/great-seforim-to-know-about-עולת-שלמה-on-kodshim.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1116705</guid>
+      <pubDate>Tue, 26 Nov 2024 06:58:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: The Maharsha (Halacha and Aggadah)</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1114979</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: The Maharsha (Halacha and Aggadah)</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2024/5754/1114979/great-seforim-to-know-about-the-maharsha-halacha-and-aggadah.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1114979</guid>
+      <pubDate>Tue, 12 Nov 2024 03:12:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: אמת ליעקב of Rav Yaakov Kamenetsky</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1114205</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: אמת ליעקב of Rav Yaakov Kamenetsky</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2024/5754/1114205/great-seforim-to-know-about-אמת-ליעקב-of-rav-yaakov-kamenetsky.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1114205</guid>
+      <pubDate>Tue, 05 Nov 2024 02:48:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Who Wrote the Ritva on Gittin?</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1109762</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Who Wrote the Ritva on Gittin?</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2024/5754/1109762/great-seforim-to-know-about-who-wrote-the-ritva-on-gittin.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1109762</guid>
+      <pubDate>Tue, 17 Sep 2024 02:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Seforim to Know About: Mabit's Kiryas Sefer on the Rambam</title>
+      <link>https://www.yutorah.org/lectures/details?shiurID=1108867</link>
+      <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
+      <itunes:summary>Great Seforim to Know About: Mabit's Kiryas Sefer on the Rambam</itunes:summary>
+      <enclosure url="http://download.yutorah.org/2024/5754/1108867/great-seforim-to-know-about-mabit's-kiryas-sefer-on-the-rambam.mp3" type="audio/mp3" length="1000000" />
+      <guid isPermaLink="false">1108867</guid>
+      <pubDate>Tue, 10 Sep 2024 02:59:28 GMT</pubDate>
+    </item>
     <item>
       <title>Great Seforim to Know About: The Chazon Ish's Letters</title>
       <link>https://www.yutorah.org/lectures/details?shiurID=1034444</link>
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: The Chazon Ish's Letters - May 17, 2022 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2022/5754/1034444/great-seforim-to-know-about-the-chazon-ish's-letters.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2022/5754/1034444.MP3</guid>
+      <guid isPermaLink="false">1034444</guid>
       <pubDate>Tue, 17 May 2022 02:56:48 GMT</pubDate>
       <itunes:duration>641</itunes:duration>
     </item>
@@ -31,7 +299,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Keses HaSofer and the Chasam Sofer's Famous Haskamah - May 10, 2022 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2022/5754/1033858/great-seforim-to-know-about-keses-hasofer-and-the-chasam-sofer's-famous-haskamah.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2022/5754/1033858.MP3</guid>
+      <guid isPermaLink="false">1033858</guid>
       <pubDate>Tue, 10 May 2022 02:52:28 GMT</pubDate>
       <itunes:duration>518</itunes:duration>
     </item>
@@ -41,7 +309,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Why Are There Two Versions of the Ritva on Kiddushin? - May 3, 2022 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2022/5754/1033190/great-seforim-to-know-about-why-are-there-two-versions-of-the-ritva-on-kiddushin.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2022/5754/1033190.MP3</guid>
+      <guid isPermaLink="false">1033190</guid>
       <pubDate>Tue, 03 May 2022 04:15:16 GMT</pubDate>
       <itunes:duration>485</itunes:duration>
     </item>
@@ -51,7 +319,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Rav Rimon's Teshuvos (Responsa)  - Mar 22, 2022 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2022/5754/1029294/great-seforim-to-know-about-rav-rimon's-teshuvos-responsa-.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2022/5754/1029294.MP3</guid>
+      <guid isPermaLink="false">1029294</guid>
       <pubDate>Tue, 22 Mar 2022 00:41:29 GMT</pubDate>
       <itunes:duration>948</itunes:duration>
     </item>
@@ -61,7 +329,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: אוהלי הלכה and 10 Purim Psakim of Rav Yaakov Ariel - Mar 1, 2022 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2022/5754/1027385/great-seforim-to-know-about-אוהלי-הלכה-and-10-purim-psakim-of-rav-yaakov-ariel.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2022/5754/1027385.MP3</guid>
+      <guid isPermaLink="false">1027385</guid>
       <pubDate>Tue, 01 Mar 2022 03:00:39 GMT</pubDate>
       <itunes:duration>1018</itunes:duration>
     </item>
@@ -71,7 +339,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: The Torah of Rav Tzvi Yehuda Kook - Feb 22, 2022 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2022/5754/1026691/great-seforim-to-know-about-the-torah-of-rav-tzvi-yehuda-kook.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2022/5754/1026691.MP3</guid>
+      <guid isPermaLink="false">1026691</guid>
       <pubDate>Tue, 22 Feb 2022 03:07:36 GMT</pubDate>
       <itunes:duration>717</itunes:duration>
     </item>
@@ -81,7 +349,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: נחלת שבעה and Standards for Filling In a Kesubah - Feb 1, 2022 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2022/5754/1024527/great-seforim-to-know-about-נחלת-שבעה-and-standards-for-filling-in-a-kesubah.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2022/5754/1024527.MP3</guid>
+      <guid isPermaLink="false">1024527</guid>
       <pubDate>Tue, 01 Feb 2022 03:08:48 GMT</pubDate>
       <itunes:duration>610</itunes:duration>
     </item>
@@ -91,7 +359,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Aruch HaShulchan - Jan 19, 2022 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2022/5754/1023295/great-seforim-to-know-about-aruch-hashulchan.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2022/5754/1023295.MP3</guid>
+      <guid isPermaLink="false">1023295</guid>
       <pubDate>Wed, 19 Jan 2022 00:48:35 GMT</pubDate>
       <itunes:duration>516</itunes:duration>
     </item>
@@ -101,7 +369,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Nesivos Shalom and an Important Perspective on Emunah - Jan 11, 2022 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2022/5754/1022600/great-seforim-to-know-about-nesivos-shalom-and-an-important-perspective-on-emunah.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2022/5754/1022600.MP3</guid>
+      <guid isPermaLink="false">1022600</guid>
       <pubDate>Tue, 11 Jan 2022 04:15:02 GMT</pubDate>
       <itunes:duration>778</itunes:duration>
     </item>
@@ -111,7 +379,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: The אבודרהם - Dec 28, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1021195/great-seforim-to-know-about-the-אבודרהם.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1021195.MP3</guid>
+      <guid isPermaLink="false">1021195</guid>
       <pubDate>Tue, 28 Dec 2021 03:08:28 GMT</pubDate>
       <itunes:duration>566</itunes:duration>
     </item>
@@ -121,7 +389,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Rambam's Teshuvos (פאר הדור) - Dec 21, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1020495/great-seforim-to-know-about-rambam's-teshuvos-פאר-הדור.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1020495.MP3</guid>
+      <guid isPermaLink="false">1020495</guid>
       <pubDate>Tue, 21 Dec 2021 02:53:27 GMT</pubDate>
       <itunes:duration>680</itunes:duration>
     </item>
@@ -131,7 +399,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Shaagas Aryeh - Dec 14, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1019826/great-seforim-to-know-about-shaagas-aryeh.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1019826.MP3</guid>
+      <guid isPermaLink="false">1019826</guid>
       <pubDate>Tue, 14 Dec 2021 03:04:13 GMT</pubDate>
       <itunes:duration>842</itunes:duration>
     </item>
@@ -141,7 +409,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Encyclopedia Talmudit  - Nov 30, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1018512/great-seforim-to-know-about-encyclopedia-talmudit-.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1018512.MP3</guid>
+      <guid isPermaLink="false">1018512</guid>
       <pubDate>Tue, 30 Nov 2021 03:16:22 GMT</pubDate>
       <itunes:duration>615</itunes:duration>
     </item>
@@ -151,7 +419,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Rav Shlomo Fischer's Drashos Beis Yishai - Nov 21, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1017709/great-seforim-to-know-about-rav-shlomo-fischer's-drashos-beis-yishai.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1017709.MP3</guid>
+      <guid isPermaLink="false">1017709</guid>
       <pubDate>Sun, 21 Nov 2021 03:09:21 GMT</pubDate>
       <itunes:duration>752</itunes:duration>
     </item>
@@ -161,7 +429,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Two Seforim That Discuss the Kedusha of Shabbos - Nov 9, 2021 - We discuss Rav Pincus's Shabbos Malkesa (שבת מלכתא) and Rav Ehud Rakovsky's Da'as Shabbos (דעת שבת) </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1016574/great-seforim-to-know-about-two-seforim-that-discuss-the-kedusha-of-shabbos.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1016574.MP3</guid>
+      <guid isPermaLink="false">1016574</guid>
       <pubDate>Tue, 09 Nov 2021 03:52:12 GMT</pubDate>
       <itunes:duration>662</itunes:duration>
     </item>
@@ -171,7 +439,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Piskei Teshuvos and Its Mystical Goal - Oct 19, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1014271/great-seforim-to-know-about-piskei-teshuvos-and-its-mystical-goal.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1014271.MP3</guid>
+      <guid isPermaLink="false">1014271</guid>
       <pubDate>Tue, 19 Oct 2021 02:58:54 GMT</pubDate>
       <itunes:duration>767</itunes:duration>
     </item>
@@ -181,7 +449,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: The Birchas Avraham and Appreciating His Style of Learning - Oct 12, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1013481/great-seforim-to-know-about-the-birchas-avraham-and-appreciating-his-style-of-learning.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1013481.MP3</guid>
+      <guid isPermaLink="false">1013481</guid>
       <pubDate>Tue, 12 Oct 2021 03:12:31 GMT</pubDate>
       <itunes:duration>1255</itunes:duration>
     </item>
@@ -191,7 +459,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Rabbeinu Yonah's Shaarei Teshuva - Aug 31, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1010692/great-seforim-to-know-about-rabbeinu-yonah's-shaarei-teshuva.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1010692.MP3</guid>
+      <guid isPermaLink="false">1010692</guid>
       <pubDate>Tue, 31 Aug 2021 02:55:55 GMT</pubDate>
       <itunes:duration>614</itunes:duration>
     </item>
@@ -201,7 +469,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Rav Shmuel Ariel's נטע בתוכנו  - Jun 1, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1002616/great-seforim-to-know-about-rav-shmuel-ariel's-נטע-בתוכנו-.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1002616.MP3</guid>
+      <guid isPermaLink="false">1002616</guid>
       <pubDate>Tue, 01 Jun 2021 02:55:43 GMT</pubDate>
       <itunes:duration>520</itunes:duration>
     </item>
@@ -211,7 +479,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Rav Pinchas Friedman's New Edition of Sefer HaTanya - May 23, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1001655/great-seforim-to-know-about-rav-pinchas-friedman's-new-edition-of-sefer-hatanya.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1001655.MP3</guid>
+      <guid isPermaLink="false">1001655</guid>
       <pubDate>Sun, 23 May 2021 03:27:47 GMT</pubDate>
       <itunes:duration>518</itunes:duration>
     </item>
@@ -221,7 +489,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>The Power of New Torah: A Quick Look at 10 of the Important Seforim Published in the Last Year - May 11, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/1000689/the-power-of-new-torah-a-quick-look-at-10-of-the-important-seforim-published-in-the-last-year.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/1000689.MP3</guid>
+      <guid isPermaLink="false">1000689</guid>
       <pubDate>Tue, 11 May 2021 00:07:19 GMT</pubDate>
       <itunes:duration>1758</itunes:duration>
     </item>
@@ -231,7 +499,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: The Gra's Ma'aseh Rav - Apr 21, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/998271/great-seforim-to-know-about-the-gra's-ma'aseh-rav.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/998271.MP3</guid>
+      <guid isPermaLink="false">998271</guid>
       <pubDate>Wed, 21 Apr 2021 00:45:11 GMT</pubDate>
       <itunes:duration>680</itunes:duration>
     </item>
@@ -241,7 +509,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: שמירת שבת כהלכתה - Apr 13, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/997406/great-seforim-to-know-about-שמירת-שבת-כהלכתה.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/997406.MP3</guid>
+      <guid isPermaLink="false">997406</guid>
       <pubDate>Tue, 13 Apr 2021 02:47:12 GMT</pubDate>
       <itunes:duration>621</itunes:duration>
     </item>
@@ -251,7 +519,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Yom Tov Sheni KiHilchaso - Mar 10, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/993784/great-seforim-to-know-about-yom-tov-sheni-kihilchaso.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/993784.MP3</guid>
+      <guid isPermaLink="false">993784</guid>
       <pubDate>Wed, 10 Mar 2021 00:58:01 GMT</pubDate>
       <itunes:duration>681</itunes:duration>
     </item>
@@ -261,7 +529,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: The Pri Megadim's פתיחה כוללת - Mar 2, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/992680/great-seforim-to-know-about-the-pri-megadim's-פתיחה-כוללת.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/992680.MP3</guid>
+      <guid isPermaLink="false">992680</guid>
       <pubDate>Tue, 02 Mar 2021 02:53:11 GMT</pubDate>
       <itunes:duration>625</itunes:duration>
     </item>
@@ -271,7 +539,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Kedushas Levi (and the Joy of Purim) - Feb 23, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/990867/great-seforim-to-know-about-kedushas-levi-and-the-joy-of-purim.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/990867.MP3</guid>
+      <guid isPermaLink="false">990867</guid>
       <pubDate>Tue, 23 Feb 2021 03:04:19 GMT</pubDate>
       <itunes:duration>985</itunes:duration>
     </item>
@@ -281,7 +549,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim To Know About: Chazon Yechezkel - Feb 16, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/989936/great-seforim-to-know-about-chazon-yechezkel.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/989936.MP3</guid>
+      <guid isPermaLink="false">989936</guid>
       <pubDate>Tue, 16 Feb 2021 02:48:25 GMT</pubDate>
       <itunes:duration>496</itunes:duration>
     </item>
@@ -291,7 +559,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Sefer HaTerumos - Jan 19, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/985479/great-seforim-to-know-about-sefer-haterumos.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/985479.MP3</guid>
+      <guid isPermaLink="false">985479</guid>
       <pubDate>Tue, 19 Jan 2021 02:47:40 GMT</pubDate>
       <itunes:duration>320</itunes:duration>
     </item>
@@ -301,7 +569,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Ramban's Sha'ar HaGemul - Jan 12, 2021 - </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/984687/great-seforim-to-know-about-ramban's-sha'ar-hagemul.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/984687.MP3</guid>
+      <guid isPermaLink="false">984687</guid>
       <pubDate>Tue, 12 Jan 2021 04:10:56 GMT</pubDate>
       <itunes:duration>649</itunes:duration>
     </item>
@@ -311,7 +579,7 @@
       <itunes:author>Turetsky, Rabbi Yehuda</itunes:author>
       <itunes:summary>Great Seforim to Know About: Ritva's Sefer HaZikaron - Jan 5, 2021 - This is the first in a series of brief shiurim on different Seforim. </itunes:summary>
       <enclosure url="http://download.yutorah.org/2021/5754/983861/great-seforim-to-know-about-ritva's-sefer-hazikaron.mp3" type="audio/mp3" length="1000000" />
-      <guid isPermaLink="false">http://media.yutorah.org/yuriets/2021/5754/983861.MP3</guid>
+      <guid isPermaLink="false">983861</guid>
       <pubDate>Tue, 05 Jan 2021 02:49:34 GMT</pubDate>
       <itunes:duration>686</itunes:duration>
     </item>
